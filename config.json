@@ -1,0 +1,7 @@
+{
+	"proxy_pass": "https://avangers.onrender.com/",
+	"private_key": "Zf6cyl7b7rArGy2picDjD9AO6cWBj+72P912OovJaW8=",
+	"listen_ip": "0.0.0.0",
+	"network_config_url": "https://ton.org/global.config.json",
+	"port": 11561
+}
